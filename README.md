@@ -1,8 +1,8 @@
 QRE1113 Line Sensor Breakout Board - Analog
 ===========================================
 
-[![Part Name](URL for picture of part)
-*Part Name (SKU)*](URL for product on Sparkfun.com)
+[![QRE1113 Line Sensor- Analog](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/4/5/3/09453-01_i_ma.jpg)
+*QRE1113 Line Sensor Breakout Board -Analog (ROB-09453)*](https://www.sparkfun.com/products/9453)
 
 This is a breakout board for the QRE1113 sensor, 
 with an easy-to-use analog output, varying depending on the amount of IR light reflect back to the sensor.
