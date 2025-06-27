@@ -1,7 +1,7 @@
 QRE1113 Line Sensor Breakout Board - Analog
 ===========================================
 
-[![QRE1113 Line Sensor- Analog](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/4/5/3/09453-01_i_ma.jpg)
+[![QRE1113 Line Sensor- Analog](https://cdn.sparkfun.com/assets/parts/3/1/4/9/09453-01a.jpg)
 *QRE1113 Line Sensor Breakout Board -Analog (ROB-09453)*](https://www.sparkfun.com/products/9453)
 
 This is a breakout board for the QRE1113 sensor, 
